@@ -1,0 +1,4 @@
+c:\users\owner\desktop;PLAIN
+c:\users\owner\documents;ZIP
+c:\users\owner\downloads;ZIP
+c:\users\owner\pictures;L1ZIP
